@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saket
 - 👀 I’m interested in Web Dev and DSA
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Web Dev Projects
 - 📫 How to reach me : mail-saket.kothari23@gmail.com
 
