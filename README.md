@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saket
-- 👀 I’m interested in Web Dev and DSA
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Web Dev Projects
+- 👀 I’m interested in BigData and Cloud
+- 🌱 I’m currently learning Spark
+- 💞️ I’m looking to collaborate on Data Engineering Projects
 - 📫 How to reach me : mail-saket.kothari23@gmail.com
 
 <!---
